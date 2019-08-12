@@ -1,0 +1,1553 @@
+The Project Gutenberg EBook of The Lusiad, by Luís de Camões
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Lusiad
+       or The Discovery of India, an Epic Poem
+
+Author: Luís de Camões
+
+Editor: E. Richmond Hodges
+
+Translator: William Julius Mickle
+
+Release Date: May 26, 2010 [EBook #32528]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE LUSIAD ***
+
+
+
+
+Produced by Chuck Greif and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Print project.)
+
+
+
+
+
+
+
+
+
+THE LUSIAD.
+
+[Illustration: Image of Camoëns]
+
+
+
+
+THE LUSIAD;
+
+OR,
+
+THE DISCOVERY OF INDIA.
+
+_AN EPIC POEM._
+
+TRANSLATED FROM THE PORTUGUESE OF LUIS DE CAMOËNS.
+
+WITH A LIFE OF THE POET.
+
+BY WILLIAM JULIUS MICKLE.
+
+_FIFTH EDITION, REVISED,_
+
+BY E. RICHMOND HODGES, M.C.P.,
+
+HON. LIBRARIAN TO THE SOCIETY OF BIBLICAL ARCHÆOLOGY,
+
+_Editor of "Cory's Ancient Fragments," "The Principia Hebraica," etc., etc._
+
+LONDON: GEORGE BELL AND SONS, YORK STREET,
+COVENT GARDEN.
+
+1877.
+
+
+"As the mirror of a heart so full of love, courage, generosity, and
+patriotism as that of Camoëns, The Lusaid can never fail to please us,
+whatever place we may assign to it in the records of poetical
+genius."--HALLAM.
+
+
+
+
+[ORIGINAL DEDICATION, 1776.]
+
+
+TO THE DUKE OF BUCCLEUGH.
+
+MY LORD,
+
+The first idea of offering my LUSIAD to some distinguished personage,
+inspired the earnest wish, that it might be accepted by the illustrious
+representative of that family under which my father, for many years,
+discharged the duties of a clergyman.
+
+Both the late Duke of BUCCLEUGH, and the Earl of DALKEITH, distinguished
+him by particular marks of their favour; and I must have forgotten him,
+if I could have wished to offer the first Dedication of my literary
+labours to any other than the Duke of BUCCLEUGH.
+
+ I am, with the greatest respect,
+   My Lord,
+     Your Grace's most devoted
+       And most obedient humble servant,
+
+         WILLIAM JULIUS MICKLE.
+
+
+
+
+EDITOR'S PREFACE.
+
+
+In undertaking, at the publishers' request, the function of editor of
+Mickle's Lusiad, I have compared the translation with the original, and,
+in some places, where another translation seemed preferable to, or more
+literal than, Mickle's, I have, in addition, given that rendering in a
+foot-note. Moreover, I have supplied the arguments to the several
+cantos, given a few more explanatory notes, and added a table of
+contents.
+
+"The late ingenious translator of the Lusiad," says Lord Strangford,[1]
+"has portrayed the character, and narrated the misfortunes of our poet,
+in a manner more honourable to his feelings as a man than to his
+accuracy in point of biographical detail. It is with diffidence that the
+present writer essays to correct his errors; but, as the real
+circumstances of the life of Camoëns are mostly to be found in his own
+minor compositions, with which Mr. Mickle was unacquainted, he trusts
+that certain information will atone for his presumption."
+
+As Lord Strangford professes to have better and more recent sources of
+information regarding the illustrious, but unfortunate, bard of
+Portugal, I make no apology for presenting to the reader an abstract of
+his lordship's memoir. Much further information will be found, however,
+in an able article contained in No. 53 of the _Quarterly Review_ for
+July, 1822, from the pen, I believe, of the poet Southey. "The family of
+Camoëns was illustrious," says Lord Strangford, "and originally Spanish.
+They were long settled at Cadmon, a castle in Galicia, from which they
+probably derived their patronymic appellation. However, there are some
+who maintain that their name alluded to a certain wonderful bird,[2]
+whose mischievous sagacity discovered and punished the smallest
+deviation from conjugal fidelity. A lady of the house of Cadmon, whose
+conduct had been rather indiscreet, demanded to be tried by this
+extraordinary judge. Her innocence was proved, and, in gratitude to the
+being who had restored him to matrimonial felicity, the contented
+husband adopted his name." It would appear that in a dispute between the
+families of Cadmon and De Castera, a cavalier of the latter family was
+slain. This happened in the fourteenth century. A long train of
+persecution followed, to escape which, Ruy de Camoëns, having embraced
+the cause of Ferdinand, removed with his family into Portugal, about
+A.D. 1370. His son, Vasco de Camoëns, was highly distinguished by royal
+favour, and had the honour of being the ancestor of our poet, who
+descended from him in the fourth generation. Luia de Camoëns, the author
+of the Lusiad, was born at Lisbon about A.D. 1524. His misfortunes began
+with his birth--he never saw a father's smile--for Simon Vasco de
+Camoëns perished by shipwreck in the very year which gave being to his
+illustrious son. The future poet was sent to the university of
+Coimbra--then at the height of its fame,--"and maintained there by the
+provident care of his surviving parent."
+
+"Love," says Lord Strangford, "is very nearly allied to devotion, and it
+was in the exercise of the latter, that Camoëns was introduced to the
+knowledge of the former. In the Church of Christ's Wounds at Lisbon, on
+11th April, 1542, Camoëns first beheld Doña Caterina de Atayde, the
+object of his purest and earliest attachment ... and it was not long
+before Camoëns enjoyed an opportunity of declaring his affection, with
+all the romantic ardour of eighteen and of a poet." The peculiar
+situation of the lady, as one of the maids of honour to the queen,
+imposed a restraint upon her admirer which soon became intolerable; and
+he, for having violated the sanctity of the royal precincts, was in
+consequence banished from the court. Whatever may have been the nature
+of his offence, "it furnished a pretext to the young lady's relations
+for terminating an intercourse which worldly considerations rendered
+highly imprudent."
+
+But Love consoled his votary: his mistress, on the morning of his
+departure, confessed the secret of her long-concealed affection, and the
+sighs of grief were soon lost in those of mutual delight. The hour of
+parting was, perhaps, the sweetest of our poet's existence.
+
+Camoëns removed to Santarem, but speedily returned to Lisbon, was a
+second time detected, and again driven into exile.[3]
+
+The voice of Love inspired our poet "with the glorious resolution of
+conquering the obstacles which fortune had placed between him and
+felicity." He obtained permission, therefore, to accompany King John
+III. in an expedition then fitting out against the Moors in Africa. In
+one of the engagements with the enemy our hero had the misfortune to
+lose "his right eye, by some splinters from the deck of the vessel in
+which he was stationed. Many of his most pathetic compositions were
+written during this campaign, and the toils of a martial life were
+sweetened by the recollection of her for whose sake they were endured.
+His heroic conduct at length procured his recall to court," but to find,
+alas, that his mistress was no more.
+
+Disappointed in his hope of obtaining any recognition of his valiant
+deeds, he now resolved, under the burning sun of India, to seek that
+independence which his own country denied. "The last words I uttered,"
+says Camoëns, "on board the vessel before leaving, were those of Scipio:
+'Ungrateful country! thou shalt not even possess my bones.'" "Some,"
+says Lord Strangford, "attribute his departure to a very different
+cause, and assert that he quitted his native shores on account of an
+intrigue in which he was detected with the beautiful wife of a
+Portuguese gentleman. Perhaps," says Lord Strangford, "this story may
+not be wholly unfounded." On his arrival in India he contributed by his
+bravery to the success of an expedition carried on by the King of
+Cochin, and his allies, the Portuguese, against the Pimento Islands; and
+in the following year (1555) he accompanied Manuel de Vasconcelos in an
+expedition to the Red Sea. Here he explored the wild regions of East
+Africa, and stored his mind with ideas of scenery, which afterwards
+formed some of the most finished pictures of the Lusiad.
+
+On his return to Goa, Camoëns devoted his whole attention to the
+completion of his poem; but an unfortunate satire which, under the title
+of _Disparates na India_, or Follies in India, he wrote against the
+vices and corruptions of the Portuguese authorities in Goa, so roused
+the indignation of the viceroy that the poet was banished to China.
+
+Of his adventures in China, and the temporary prosperity he enjoyed
+there, while he held the somewhat uncongenial office of _Provedor dos
+defuntos_, i.e., Trustee for deceased persons, Mickle has given an ample
+account in the introduction to the Lusiad. During those years Camoëns
+completed his poem, about half of which was written before he left
+Europe. According to a tradition, not improbable in itself, he composed
+great part of it in a natural grotto which commands a splendid view of
+the city and harbour of Macao. An engraving of it may be seen in
+Onseley's Oriental Collections, and another will be found in Sir G.
+Staunton's Account of the Embassy to China.
+
+A little temple, in the Chinese style, has been erected upon the rock,
+and the ground around it has been ornamented by Mr. Fitzhugh, one of our
+countrymen, from respect to the memory of the poet. The years that he
+passed in Macao were probably the happiest of his life. Of his departure
+for Europe, and his unfortunate shipwreck at the mouth of the river
+Meekhaun,[4] in Cochin China, Mickle has also given a sufficient
+account.
+
+Lord Strangford has related, on the authority of Sousa, that while our
+poet was languishing in poverty at Lisbon, "a cavalier, named Ruy de
+Camera, called on him one day, asking him to finish for him a poetical
+version of the seven penitential psalms. Raising his head from his
+wretched pallet, and pointing to his faithful Javanese attendant, he
+exclaimed, 'Alas, when I was a poet, I was young, and happy, and blest
+with the love of ladies; but now I am a forlorn, deserted wretch.
+See--there stands my poor Antonio, vainly supplicating fourpence to
+purchase a little coals--I have them not to give him.' The cavalier, as
+Sousa relates, closed both his heart and his purse, and quitted the
+room. Such were the grandees of Portugal." Camoëns sank under the
+pressure of penury and disease, and died in an alms-house, early in
+1579, and was buried in the church of Sta. Anna of the Franciscan
+Friars. Over his grave Gonzalo Coutinho placed the following
+inscription:--
+
+          "HERE LIES LUIS DE CAMOËNS.
+      HE EXCELLED ALL THE POETS OF HIS TIME.
+    HE LIVED POOR AND MISERABLE, AND HE DIED SO.
+                      MDLXXIX."
+
+The translator of the Lusiad was born, in 1734, at Langholm, in
+Dumfriesshire, where his father, a good French scholar, was the
+Presbyterian minister. At the age of sixteen William Julius Mickle was
+removed, to his great dislike, from school, and sent into the
+counting-house of a relation of his mother's, a brewer, where, against
+his inclination, he remained five years. He subsequently, for family
+reasons, became the head of the firm, and carried on the business. It is
+not to be wondered at, however, that with his dislike to business in
+general and to this one in particular, he did not succeed; and it is
+quite reasonable to suppose that the cause of his failure, and
+subsequent pecuniary embarrassments, arose from his having devoted those
+hours to his poetical studies which should have been dedicated to
+business. Mickle obtained afterwards the appointment of corrector of the
+Clarendon Press in Oxford, and died at Wheatly, in Oxfordshire, in 1789.
+
+Southey speaks of Mickle (_Quarterly Review_, liii. p. 29) as a man of
+genius who had ventured upon the chance of living by his literary
+labours, and says that he "did not over-rate the powers which he was
+conscious of possessing, knew that he could rely upon himself for their
+due exertion, and had sufficient worldly prudence to look out for a
+subject which was likely to obtain notice and patronage." His other
+poems, Pollio, Sir Martyn, etc., with the exception of his Cumnor Hall,
+are not held in high estimation.
+
+Describing the several poetic versions of the Lusiad, Mr. Musgrave
+says,[5] of Fanshaw's version, that "its language is antiquated, and in
+many instances it travesties the original, and seldom long sustains the
+tone of epic gravity suited to the poem. It is, however," says he, "more
+faithful than the translation of Mickle, but it would be ungenerous," he
+adds, "to dwell on the paraphrastic licences which abound in Mickle's
+performance, and on its many interpolations and omissions. Mr. Mickle
+thought, no doubt," says Musgrave, "that by this process he should
+produce a poem which in its perusal might afford a higher gratification.
+Nor am I prepared to say that by all readers this would be deemed a
+miscalculation. Let it not be supposed, however, that I wish to detract
+from the intrinsic merit of his translation. It is but an act of justice
+to admit, that it contains many passages of exquisite beauty, and that
+it is a performance which discovers much genius, a cultivated taste, and
+a brilliant imagination. Many parts of the original are rendered with
+great facility, elegance, and fidelity. In poetical elegance I presume
+not to enter into competition with him."
+
+For his own performance Musgrave claims the merit of greater fidelity to
+the original; but in respect of harmony, in true poetic grace, and
+sublimity of diction, his translation will bear no comparison with
+Mickle's version; for even Southey, in the article before quoted, though
+very hard upon his interpolations, admits that, "Mickle was a man of
+genius ... a man whom we admire and respect; whose memory is without a
+spot, and whose name will live among the English poets." (_Quarterly
+Review_, liii. p. 29.)
+
+It only remains for me to say, that in order to place the reader in a
+position to judge of the merits of this sublime effort of genius, I have
+distinguished Mickle's longer interpolations by printing them in Bk. i.
+p. 24, in _Italics_, and in the first 300 lines of Bk. ix. by calling
+the attention of the reader to the interpolation by means of a
+foot-note. The notes are, in general, left as written by the translator,
+except in some cases where it seemed advisable to curtail them. Original
+notes are indicated by the abbreviation "_Ed._"
+
+THE EDITOR.
+
+LONDON, 1877.
+
+
+
+
+THE LIFE OF CAMOËNS,
+
+BY WILLIAM JULIUS MICKLE.
+
+
+When the glory of the arms of Portugal had reached its meridian
+splendour, Nature, as if in pity of the literary rudeness of that
+nation, produced a great poet to record the numberless actions of high
+spirit performed by his countrymen. Except Osorius, the historians of
+Portugal are little better than dry journalists. But it is not their
+inelegance which rendered the poet necessary. It is the peculiar nature
+of poetry to give a colouring to heroic actions, and to express
+indignation against breaches of honour, in a spirit which at once seizes
+the heart of the man of feeling, and carries with it instantaneous
+conviction. The brilliant actions of the Portuguese form the great hinge
+which opened the door to the most important alterations in the civil
+history of mankind. And to place these actions in the light and
+enthusiasm of poetry--that enthusiasm which particularly assimilates the
+youthful breast to its own fires--was Luis de Camoëns the poet of
+Portugal, born.
+
+Different cities have claimed the honour of his birth. But according to
+N. Antonio, and Manuel Correa, his intimate friend, this event happened
+at Lisbon in 1517.[6] His family was of considerable note, and
+originally Spanish. In 1370 Vasco Perez de Caamans, disgusted at the
+court of Castile, fled to that of Lisbon, where King Ferdinand
+immediately admitted him into his council, and gave him the lordships of
+Sardoal, Punnete, Marano, Amendo, and other considerable lands; a
+certain proof of the eminence of his rank and abilities. In the war for
+the succession, which broke out on the death of Ferdinand, Caamans
+sided with the King of Castile, and was killed in the battle of
+Aljabarota. But though John I., the victor, seized a great part of his
+estate, his widow, the daughter of Gonsalo Tereyro, grand master of the
+Order of Christ, and general of the Portuguese army, was not reduced
+beneath her rank. She had three sons, who took the name of Camoëns. The
+family of the eldest intermarried with the first nobility of Portugal,
+and even, according to Castera, with the blood royal. But the family of
+the second brother, whose fortune was slender, had the superior honour
+to produce the author of the Lusiad.
+
+Early in life the misfortunes of the poet began. In his infancy, Simon
+Vaz de Camoëns, his father, commander of a vessel, was shipwrecked at
+Goa, where, with his life, the greatest part of his fortune was lost.
+His mother, however, Anne de Macedo of Santarem, provided for the
+education of her son Luis, at the University of Coimbra. What he
+acquired there his works discover; an intimacy with the classics, equal
+to that of a Scaliger, but directed by the taste of a Milton or a Pope.
+
+When he left the university he appeared at court. He was a polished
+scholar and very handsome,[7] possessing a most engaging mien and
+address, with the finest complexion, which, added to the natural ardour
+and gay vivacity of his deposition, rendered him an accomplished
+gentleman. Courts are the scenes of intrigue, and intrigue was
+fashionable at Lisbon. But the particulars of the amours of Camoëns rest
+unknown. This only appears: he had aspired above his rank, for he was
+banished from the court; and in several of his sonnets he ascribes this
+misfortune to love.
+
+He now retired to his mother's friends at Santarem. Here he renewed his
+studies, and began his poem on the discovery of India. John III. at this
+time prepared an armament against Africa. Camoëns, tired of his
+inactive, obscure life, went to Ceuta in this expedition, and greatly
+distinguished his valour in several _rencontres_. In a naval engagement
+with the Moors in the Straits of Gibraltar, Camoëns, in the conflict of
+boarding, where he was among the foremost, lost his right eye. Yet
+neither the hurry of actual service, nor the dissipation of the camp,
+could stifle his genius. He continued his _Lusiadas_; and several of his
+most beautiful sonnets were written in Africa, while, as he expresses
+it,
+
+    "One hand the pen, and ant the sword employ'd."
+
+The fame of his valour had now reached the Court, and he obtained
+permission to return to Lisbon. But while he solicited an establishment
+which he had merited in the ranks of battle, the malignity of evil
+tongues (as he calls it in one of his letters) was injuriously poured
+upon him. Though the bloom of his early youth was effaced by several
+years residence under the scorching sky of Africa, and though altered by
+the loss of an eye, his presence gave uneasiness to the gentlemen of
+some families of the first rank where he had formerly visited. Jealousy
+is the characteristic of the Spanish and Portuguese; its resentment
+knows no bounds, and Camoëns now found it prudent to banish himself from
+his native country. Accordingly, in 1553 he hailed for India, with a
+resolution never to return. As the ship left the Tagus he exclaimed, in
+the words of the sepulchral monument of Scipio Africanus, "_Ingrata
+patria, non possidebis ossa mea!_" (Ungrateful country, thou shalt not
+possess my bones!) But he knew not what evils in the East would awaken
+the remembrance of his native fields.
+
+When Camoëns arrived in India, an expedition was ready to sail to
+revenge the King of Cochin on the King of Pimenta. Without any rest on
+shore after his long voyage, he joined this armament, and, in the
+conquest of the Alagada Islands, displayed his usual bravery. But his
+modesty, perhaps, is his greatest praise. In a sonnet he mentions this
+expedition: "We went to punish the King of Pimenta," says he, "_e
+succedeones bem_" (and we succeeded well). When it is considered that
+the poet bore no inconsiderable share in the victory, no ode can
+conclude more elegantly, more happily than this.
+
+In the year following, he attended Manuel de Vasconcello in an
+expedition to the Red Sea. Here, says Faria, as Camoëns had no use for
+his sword, he employed his pen. Nor was his activity confined to the
+fleet or camp. He visited Mount Felix, and the adjacent inhospitable
+regions of Africa, which he so strongly pictures in the Lusiad, and in
+one of his little pieces, where he laments the absence of his mistress.
+
+When he returned to Goa, he enjoyed a tranquility which enabled him to
+bestow his attention on his epic poem. But this serenity was
+interrupted, perhaps by his own imprudence. He wrote some satires which
+gave offence, and by order of the viceroy, Francisco Barreto, he was
+banished to China.
+
+Men of poor abilities are more conscious of their embarrassment and
+errors than is commonly believed. When men of this kind are in power,
+they affect great solemnity; and every expression of the most distant
+tendency to lessen their dignity is held as the greatest of crimes.
+Conscious, also, how severely the man of genius can hurt their interest,
+they bear an instinctive antipathy against him, are uneasy even in his
+company, and, on the slightest pretence, are happy to drive him from
+them. Camoëns was thus situated at Goa; and never was there a fairer
+field for satire than the rulers of India at that time afforded. Yet,
+whatever esteem the prudence of Camoëns may lose in our idea, the
+nobleness of his disposition will doubly gain. And, so conscious was he
+of his real integrity and innocence, that in one of his sonnets he
+wishes no other revenge on Barreto than that the cruelty of his exile
+should ever be remembered.[8]
+
+The accomplishments and manners of Camoëns soon found him friends,
+though under the disgrace of banishment. He was appointed Commissary of
+the estates of deceased persons, in the island of Macao, a Portuguese
+settlement on the coast of China. Here he continued his Lusiad; and
+here, also, after five years residence, he acquired a fortune, though
+small, yet equal to his wishes. Don Constantine de Braganza was now
+Viceroy of India; and Camoëns, desirous to return to Goa, resigned his
+charge. In a ship, freighted by himself, he set sail, but was
+shipwrecked in the gulf near the mouth of the river Meekhaun, in Cochin
+China. All he had acquired was lost in the waves: his poems, which he
+held in one hand, while he swam with the other, were all he found
+himself possessed of when he stood friendless on the unknown shore. But
+the natives gave him a most humane reception; this he has immortalized
+in the prophetic song in the tenth Lusiad;[9] and in the seventh he
+tells us that here he lost the wealth which satisfied his wishes.
+
+     _Agora da esperança ja adquirida, etc._
+
+    "Now blest with all the wealth fond hope could crave,
+     Soon I beheld that wealth beneath the wave
+     For ever lost;----
+     My life like Judah's Heaven-doom'd king of yore
+     By miracle prolong'd."
+
+On the banks of the Meekhaun, he wrote his beautiful paraphrase of the
+137th Psalm, where the Jews, in the finest strain of poetry, are
+represented as hanging their harps on the willows by the rivers of
+Babylon, and weeping their exile from their native country. Here Camoëns
+continued some time, till an opportunity offered to carry him to Goa.
+When he arrived at that city, Don Constantine de Braganza, the viceroy,
+whose characteristic was politeness, admitted him into intimate
+friendship, and Camoëns was happy till Count Redondo assumed the
+government. Those who had formerly procured the banishment of the
+satirist were silent while Constantine was in power. But now they
+exerted all their arts against him. Redondo, when he entered on office,
+pretended to be the friend of Camoëns; yet, with the most unfeeling
+indifference, he suffered the innocent man to be thrown into the common
+prison. After all the delay of bringing witnesses, Camoëns, in a public
+trial, fully refuted every accusation against his conduct while
+commissary at Macao, and his enemies were loaded with ignominy and
+reproach. But Camoëns had some creditors; and these detained him in
+prison a considerable time, till the gentlemen of Goa began to be
+ashamed that a man of his singular merit should experience such
+treatment among them. He was set at liberty; and again he assumed the
+profession of arms, and received the allowance of a
+gentleman-volunteer, a character at that time common in Portuguese
+India. Soon after, Pedro Barreto (appointed governor of the fort of
+Sofála), by high promises, allured the poet to attend him thither. The
+governor of a distant fort, in a barbarous country, shares in some
+measure the fate of an exile. Yet, though the only motive of Barreto
+was, in this unpleasant situation, to retain the conversation of Camoëns
+at his table, it was his least care to render the life of his guest
+agreeable. Chagrined with his treatment, and a considerable time having
+elapsed in vain dependence upon Barreto, Camoëns resolved to return to
+his native country. A ship, on the homeward voyage, at this time touched
+at Sofála, and several gentlemen[10] who were on board were desirous
+that Camoëns should accompany them. But this the governor ungenerously
+endeavoured to prevent, and charged him with a debt for board. Anthony
+de Cabral, however, and Hector de Sylveyra, paid the demand, and
+Camoëns, says Faria, and the honour of Barreto were sold together.
+
+After an absence of sixteen years, Camoëns, in 1569, returned to Lisbon,
+unhappy even in his arrival, for the pestilence then raged in that city,
+and prevented his publishing for three years. At last, in 1572, he
+printed his Lusiad, which, in the opening of the first book, in a most
+elegant turn of compliment, he addressed to his prince, King Sebastian,
+then in his eighteenth year. The king, says the French translator, was
+so pleased with his merit, that he gave the author a pension of 4000
+reals, on condition that he should reside at court. But this salary,
+says the same writer, was withdrawn by Cardinal Henry, who succeeded to
+the crown of Portugal, lost by Sebastian at the battle of Alcazar.
+
+But this story of the pension is very doubtful. Correa and other
+contemporary authors do not mention it, though some late writers have
+given credit to it. If Camoëns, however, had a pension, it is highly
+probable that Henry deprived him of it. While Sebastian was devoted to
+the chase, his grand-uncle, the cardinal, presided at the council board,
+and Camoëns, in his address to the king, which closes the Lusiad,
+advises him to exclude the clergy from State affairs. It was easy to see
+that the cardinal was here intended. And Henry, besides, was one of
+those statesmen who can perceive no benefit resulting to the public
+from elegant literature. But it ought also to be added in completion of
+his character, that under the narrow views and weak hands of this Henry,
+the kingdom of Portugal fell into utter ruin; and on his death, which
+closed a short inglorious reign, the crown of Lisbon, after a faint
+struggle, was annexed to that of Spain. Such was the degeneracy of the
+Portuguese, a degeneracy lamented in vain by Camoëns, whose observation
+of it was imputed to him as a crime.
+
+Though the great[11] patron of theological literature--a species the
+reverse of that of Camoëns--certain it is, that the author of the Lusiad
+was utterly neglected by Henry, under whose inglorious reign he died in
+all the misery of poverty. By some, it is said, he died in an
+almshouse. It appears, however, that he had not even the certainty of
+subsistence which these houses provide. He had a black servant, who had
+grown old with him, and who had long experienced his master's humanity.
+This grateful dependant, a native of Java, who, according to some
+writers, saved his master's life in the unhappy shipwreck where he lost
+his effects, begged in the streets of Lisbon for the only man in
+Portugal on whom God had bestowed those talents which have a tendency to
+erect the spirit of a downward age. To the eye of a careful observer,
+the fate of Camoëns throws great light on that of his country, and will
+appear strictly connected with it. The same ignorance, the same
+degenerate spirit, which suffered Camoëns to depend on his share of the
+alms begged in the streets by his old hoary servant--the same spirit
+which caused this, sank the kingdom of Portugal into the most abject
+vassalage ever experienced by a conquered nation. While the grandees of
+Portugal were blind to the ruin which impended over them, Camoëns beheld
+it with a pungency of grief which hastened his end. In one of his
+letters he has these remarkable words, "_Em fim accaberey à vida, e
+verràm todos que fuy afeiçoada a minho patria_," etc.--"I am ending the
+course of my life, the world will witness how I have loved my country. I
+have returned, not only to die in her bosom, but to die with her." In
+another letter, written a little before his death, he thus, yet with
+dignity, complains, "Who has seen on so small a theatre as my poor bed,
+such a representation of the disappointments of Fortune. And I, as if
+she could not herself subdue me, I have yielded and become of her party;
+for it were wild audacity to hope to surmount such accumulated evils."
+
+In this unhappy situation, in 1579, in his sixty-second year, the year
+after the fatal defeat of Don Sebastian, died Luis de Camoëns, the
+greatest literary genius ever produced by Portugal; in martial courage
+and spirit of honour nothing inferior to her greatest heroes. And in a
+manner suitable to the poverty in which he died was he buried. Soon
+after, however, many epitaphs honoured his memory; the greatness of his
+merit was universally confessed, and his Lusiad was translated into
+various languages.[12] Nor ought it to be omitted, that the man so
+miserably neglected by the weak king Henry, was earnestly enquired after
+by Philip of Spain when he assumed the crown of Lisbon. When Philip
+heard that Camoëns was dead, both his words and his countenance
+expressed his disappointment and grief.
+
+From the whole tenor of his life, and from that spirit which glows
+throughout the Lusiad, it evidently appears that the courage and manners
+of Camoëns flowed from true greatness and dignity of soul. Though his
+polished conversation was often courted by the great, he appears so
+distant from servility that his imprudence in this respect is by some
+highly blamed. Yet the instances of it by no means deserve that severity
+of censure with which some writers have condemned him. Unconscious of
+the feelings of a Camoëns, they knew not that a carelessness in securing
+the smiles of fortune, and an open honesty of indignation, are almost
+inseparable from the enthusiasm of fine imagination. The truth is, the
+man possessed of true genius feels his greatest happiness in the
+pursuits and excursions of the mind, and therefore makes an estimate of
+things very different from that of him whose unremitting attention is
+devoted to his external interest. The profusion of Camoëns is also
+censured. Had he dissipated the wealth he acquired at Macao, his
+profusion indeed had been criminal; but it does not appear that he ever
+enjoyed any other opportunity of acquiring independence. But Camoëns was
+unfortunate, and the unfortunate man is viewed--
+
+            "Through the dim shade his fate casts o'er him:
+    A shade that spreads its evening darkness o'er
+    His brightest virtues, while it shows his foibles
+    Crowding and obvious as the midnight stars,
+    Which, in the sunshine of prosperity
+    Never had been descried."
+
+Yet, after the strictest discussion, when all the causes are weighed
+together, the misfortunes of Camoëns will appear the fault and disgrace
+of his age and country, and not of the man. His talents would have
+secured him an apartment in the palace of Augustus, but such talents are
+a curse to their possessor in an illiterate nation. In a beautiful,
+digressive exclamation at the end of the Lusiad, he affords us a
+striking view of the neglect which he experienced. Having mentioned how
+the greatest heroes of antiquity revered and cherished the muse, he thus
+characterizes the nobility of his own age and country.
+
+    "Alas! on Tago's hapless shore alone
+     The muse is slighted, and her charms unknown;
+     For this, no Virgil here attunes the lyre,
+     No Homer here awakes the hero's fire;
+     Unheard, in vain their native poet sings,
+     And cold neglect weighs dawn the muse's wings."
+
+In such an age, and among such a barbarous nobility, what but wretched
+neglect could be the fate of a Camoëns! After all, however, if he was
+imprudent on his first appearance at the court of John III.; if the
+honesty of his indignation led him into great imprudence, as certainly
+it did, when at Goa he satirised the viceroy and the first persons in
+power; yet let it also be remembered, that "The gifts of imagination
+bring the heaviest task upon the vigilance of reason; and to bear those
+faculties with unerring rectitude, or invariable propriety, requires a
+degree of firmness and of cool attention, which doth not always attend
+the higher gifts of the mind. Yet, difficult as nature herself seems to
+have rendered the task of regularity to genius, it is the supreme
+consolation of dullness and of folly to point with Gothic triumph to
+those excesses which are the overflowings of faculties they never
+enjoyed. Perfectly unconscious that they are indebted to their stupidity
+for the consistency of their conduct, they plume themselves on an
+imaginary virtue which has its origin in what is really their
+disgrace.--Let such, if such dare approach the shrine of Camoëns,
+withdraw to a respectful distance; and should they behold the ruins of
+genius, or the weakness of an exalted mind, let them be taught to lament
+that nature has left the noblest of her works imperfect."[13]
+
+
+
+
+DISSERTATION ON THE LUSIAD, AND ON EPIC POETRY,
+
+BY THE TRANSLATOR.
+
+
+When Voltaire was in England, previous to his publication of his
+Henriade, he published in English an essay on the epic poetry of the
+European nations. In this he both highly praised, and severely attacked,
+the Lusiad. In his French editions of this essay, he has made various
+alterations, at different times, in the article on Camoëns. It is not,
+however, improper to premise, that some most amazing falsities will be
+here detected; the gross misrepresentation of every objection refuted;
+and demonstration brought, that when Voltaire wrote his English essay,
+his knowledge of the Lusiad was entirely borrowed from the bold, harsh,
+unpoetical version of Fanshaw.
+
+"While Trissino," says Voltaire, "was clearing away the rubbish in
+Italy, which barbarity and ignorance had heaped up for ten centuries in
+the way of the arts and sciences, Camoëns, in Portugal, steered a new
+course, and acquired a reputation which lasts still among his countrymen
+who pay as much respect to his memory as the English to Milton."
+
+Among other passages of the Lusiad which he criticises is that where
+"Adamastor, the giant of the Cape of Storms, appears to them, walking in
+the depth of the sea; his head reaches to the clouds; the storms, the
+winds, the thunders, and the lightnings hang about him; his arms are
+extended over the waves. It is the guardian of that foreign ocean,
+unploughed before by any ship. He complains of being obliged to submit
+to fate, and to the audacious undertaking of the Portuguese, and
+foretells them all the misfortunes they must undergo in the Indies. I
+believe that such a fiction would be thought noble and proper in all
+ages, and in all nations.
+
+"There is another, which perhaps would have pleased the Italians as well
+as the Portuguese, but no other nation besides: it is the enchanted
+island, called the Island of Bliss, which the fleet finds in its way
+home, just rising from the sea, for their comfort, and for their reward.
+Camoëns describes that place, as Tasso some years after depicted his
+island of Armida. There a supernatural power brings in all the beauties,
+and presents all the pleasures which nature can afford, and the heart
+may wish for; a goddess, enamoured with Vasco de Gama, carries him to
+the top of a high mountain, from whence she shows him all the kingdoms
+of the earth, and foretells the fate of Portugal.
+
+"After Camoëns hath given loose to his fancy, in the description of the
+pleasures which Gama and his crew enjoyed in the island, he takes care
+to inform the reader that he ought to understand by this fiction nothing
+but the satisfaction which the virtuous man feels, and the glory which
+accrues to him, by the practice of virtue; but the best excuse for such
+an invention is the charming style in which it is delivered (if we may
+believe the Portuguese), for the beauty of the elocution sometimes makes
+amends for the faults of the poet, as the colouring of Rubens makes some
+defects in his figures pass unregarded.
+
+"There is _another_ kind of machinery continued throughout all the poem,
+which nothing can excuse; that is, an injudicious mixture of the heathen
+gods with our religion. Gama in a storm addresses his prayers to Christ,
+but it is Venus who comes to his relief; the heroes are Christians, and
+the poet heathen. The main design which the Portuguese are supposed to
+have (next to promoting their trade) is to propagate Christianity; yet
+Jupiter, Bacchus, and Venus, have in their hands all the management of
+the voyage. So incongruous a machinery casts a blemish upon the whole
+poem; yet it shows at the same time how prevailing are its beauties
+since the Portuguese like it with all its faults."
+
+The Lusiad, says Voltaire, contains "a sort of epic poetry unheard of
+before. No heroes are wounded a thousand different ways; no woman
+enticed away, and the world overturned for her cause." But the very want
+of these, in place of supporting the objection intended by Voltaire,
+points out the happy judgment and peculiar excellence of Camoëns. If
+Homer has given us all the fire and hurry of battles, he has also given
+us all the uninteresting, tiresome detail. What reader but must be
+tired with the deaths of a thousand heroes, who are never mentioned
+before, nor afterwards, in the poem. Yet, in every battle we are wearied
+out with such _Gazette_-returns of the slain and wounded as--
+
+    "Hector Priamides when Zeus him glory gave,
+     Assæus first, Autonoüs, he slew;
+     Ophites, Dolops, Klytis' son beside;
+     Opheltius also, Agelaüs too,
+     Æsymnus, and the battle-bide
+     Hippónoüs, chiefs on Danaian side,
+     And then, the multitude."
+
+     HOMER'S Iliad, bk. xi. 299, et seq.,
+     (W. G. T. BARTER'S translation.)
+
+And corresponding to it is Virgil's Æneid, bk. x. line 747, et seq.:--
+
+    "By Cædicus Alcathoüs was slain;
+     Sacrator laid Hydaspes on the plain;
+     Orsès the strong to greater strength must yield,
+     He, with Parthenius, were by Rapo killed.
+     Then brave Messapus Ericetès slew,
+     Who from Lycaón's blood his lineage drew."
+
+     DRYDEN'S version.
+
+With, such catalogues is every battle extended; and what can be more
+tiresome than such uninteresting descriptions, and their imitations! If
+the idea of the battle be raised by such enumeration, still the copy and
+original are so near each other that they can never please in two
+separate poems. Nor are the greater part of the battles of the Æneid
+much more distant than those of the Iliad. Though Virgil with great art
+has introduced a Camilla, a Pallas, and a Lausus, still, in many
+particulars, and in the action upon the whole, there is such a sameness
+with the Iliad, that the learned reader of the Æneid is deprived of the
+pleasure inspired by originality. If the man of taste, however, will be
+pleased to mark how the genius of a Virgil has managed a war after
+Homer, he will certainly be tired with a dozen epic poems in the same
+style. Where the siege of a town and battles are the subject of an epic,
+there will, of necessity, in the characters and circumstances, be a
+resemblance to Homer; and such poem must therefore want originality.
+Happily for Tasso, the variation of manners, and his masterly
+superiority over Homer in describing his duels, has given to his
+Jerusalem an air of novelty. Yet, with all the difference between
+Christian and pagan heroes, we have a Priam, an Agamemnon, an Achilles,
+etc., armies slaughtered, and a city besieged. In a word, we have a
+handsome copy of the Iliad in the Jerusalem Delivered. If some
+imitations, however, have been successful, how many other epics of
+ancient and modern times have hurried down the stream of oblivion! Some
+of their authors had poetical merit, but the fault was in the choice of
+their subjects. So fully is the strife of war exhausted by Homer, that
+Virgil and Tasso could add to it but little novelty; no wonder,
+therefore, that so many epics on battles and sieges have been suffered
+to sink into utter neglect. Camoëns, perhaps, did not weigh these
+circumstances, but the strength of his poetical genius directed him. He
+could not but feel what it was to read Virgil after Homer; and the
+original turn and force of his mind led him from the beaten track of
+Helen's and Lavinia's, Achilles's and Hector's sieges and slaughters,
+where the hero hews down, and drives to flight, whole armies with his
+own sword. Camoëns was the first who wooed the modern Epic Muse, and she
+gave him the wreath of a first lover; a sort of epic poetry unheard of
+before; or, as Voltaire calls it, _une nouvelle espèce d'epopée_; and
+the grandest subject it is (of profane history) which the world has ever
+beheld.[14] A voyage esteemed too great for man to dare; the adventures
+of this voyage through unknown oceans deemed unnavigable; the eastern
+world happily discovered, and for ever indissolubly joined and given to
+the western; the grand Portuguese empire in the East founded; the
+humanization of mankind, and universal commerce the consequence! What
+are the adventures of an old, fabulous hero's arrival in Britain, what
+are Greece and Latium in arms for a woman compared to this! Troy is in
+ashes, and even the Roman empire is no more. But the effects of the
+voyage, adventures, and bravery of the hero of the Lusiad will be felt
+and beheld, and perhaps increase in importance, while the world shall
+remain.
+
+Happy in his choice, happy also was the genius of Camoëns in the method
+of pursuing his subject. He has not, like Tasso, given it a total
+appearance of fiction; nor has he, like Lucan, excluded allegory and
+poetical machinery. Whether he intended it or not (for his genius was
+sufficient to suggest its propriety), the judicious precept of
+Petronius[15] is the model of the Lusiad. That elegant writer proposes a
+poem on the civil war, and no poem, ancient or modern, merits the
+character there sketched out in any degree comparative to the Lusiad. A
+truth of history is preserved; yet, what is improper for the historian,
+the ministry of Heaven is employed, and the free spirit of poetry throws
+itself into fictions which makes the whole appear as an effusion of
+prophetic fury, and not like a rigid detail of facts, given under the
+sanction of witnesses. Contrary to Lucan, who, in the above rules, drawn
+from the nature of poetry, is severely condemned by Petronius, Camoëns
+conducts his poem _per ambages Deorumque ministeria_. The apparition,
+which in the night hovers athwart the fleet near the Cape of Good Hope,
+is the grandest fiction in human composition; the invention his own! In
+the Island of Venus, the use of which fiction in an epic poem is also
+his own, he has given the completest assemblage of all the flowers which
+have ever adorned the bowers of love. And, never was the _furentis animi
+vaticinatio_ more conspicuously displayed than in the prophetic song,
+the view of the spheres, and the globe of the earth. Tasso's imitation
+of the Island of Venus is not equal to the original; and, though
+"Virgil's myrtles[16] dropping blood are nothing to Tasso's enchanted
+forest," what are all Ismeno's enchantments to the grandeur and horror
+of the appearance, prophecy, and vanishment of the spectre of
+Camoëns![17] It has long been agreed among critics, that the solemnity
+of religious observances gives great dignity to the historical narrative
+of epic poetry. Camoëns, in the embarkation of the fleet, and in several
+other places, is peculiarly happy in the dignity of religious
+allusions. Manners and character are also required in the epic poem. But
+all the epics which have appeared are, except two, mere copies of the
+Iliad in these respects. Every one has its Agamemnon, Achilles, Ajax,
+and Ulysses; its calm, furious, gross, and intelligent hero. Camoëns and
+Milton happily left this beaten track, this exhausted field, and have
+given us pictures of manners unknown in the Iliad, the Æneid, and all
+those poems which may be classed with the Thebaid. The Lusiad abounds
+with pictures of manners, from those of the highest chivalry to those of
+the rudest, fiercest, and most innocent barbarism. In the fifth, sixth,
+and ninth books, Leonardo and Veloso are painted in stronger colours
+than any of the inferior characters in Virgil. But _character_, indeed,
+is not the excellence of the Æneid. That of Monzaida, the friend of
+Gama, is much superior to that of Achates. The base, selfish, perfidious
+and cruel character of the Zamorim and the Moors, are painted in the
+strongest colours; and the character of Gama himself is that of the
+finished hero. His cool command of his passions, his deep sagacity, his
+fixed intrepidity, his tenderness of heart, his manly piety, and his
+high enthusiasm in the love of his country are all displayed in the
+superlative degree. Let him who objects the want of character to the
+Lusiad, beware lest he stumble upon its praise; lest he only say, it
+wants an Achilles, a Hector, and a Priam. And, to the novelty of the
+manners of the Lusiad let the novelty of fire-arms also be added. It has
+been said that the buckler, the bow, and the spear, must continue the
+arms of poetry. Yet, however unsuccessful others may have been, Camoëns
+has proved that fire-arms may be introduced with the greatest dignity,
+and the finest effect in the epic poem.
+
+As the grand interest of commerce and of mankind forms the subject of
+the Lusiad, so, with great propriety, as necessary accompaniments to the
+voyage of his hero, the author has given poetical pictures of the four
+parts of the world--in the third book a view of Europe; in the fifth, a
+view of Africa; and in the tenth, a picture of Asia and America. Homer
+and Virgil have been highly praised for their judgment in the choice of
+subjects which interested their countrymen, and Statius has been as
+severely condemned for his uninteresting choice. But, though the subject
+of Camoëns be particularly interesting to his own countrymen, it has
+also the peculiar happiness to be the poem of every trading nation. It
+is the epic poem of the birth of commerce, and, in a particular manner,
+the epic poem of whatever country has the control and possession of the
+commerce of India.[18]
+
+An unexhausted fertility and variety of poetical description, an
+unexhausted elevation of sentiment, and a constant tenor of the grand
+simplicity of diction, complete the character of the Lusiad of Camoëns:
+a poem which, though it has hitherto received from the public most
+unmerited neglect, and from the critics most flagrant injustice, was yet
+better understood by the greatest poet of Italy. Tasso never did his
+judgment more credit than when he confessed that he dreaded Camoëns as a
+rival; or his generosity more honour than when he addressed the elegant
+sonnet to the hero of the Lusiad, commencing--
+
+    "Vasco, le cui felici, ardite antenne
+     In contro al sol, che ne riporta il giorno."
+
+It only remains to give some account of the version of the Lusiad which
+is now offered to the public. Beside the translations mentioned in the
+life of Camoëns, M. Duperron De Castera, in 1735, gave, in French prose,
+a loose unpoetical paraphrase[19] of the Lusiad. Nor does Sir Richard
+Fanshaw's English version, published during the usurpation of Cromwell,
+merit a better character. Though stanza be rendered for stanza, though
+at first view it has the appearance of being exceedingly literal, this
+version is nevertheless exceedingly unfaithful. Uncountenanced by his
+original, Fanshaw--
+
+    "Teems with many a dead-born just."[20]
+
+Nor had he the least idea of the dignity of the epic style,[21] or of
+the true spirit of poetical translation. For this, indeed, no definite
+rule can be given. The translator's feelings alone must direct him, for
+the spirit of poetry is sure to evaporate in literal translation.
+
+Indeed, literal translation of poetry is a solecism. You may construe
+your author, indeed, but, if with some translators you boast that you
+have left your author to speak for himself, that you have neither added
+nor diminished, you have in reality grossly abused him, and deceived
+yourself. Your literal translation can have no claim to the original
+felicities of expression; the energy, elegance, and fire of the original
+poetry. It may bear, indeed, a resemblance; but such a one as a corpse
+in the sepulchre bears to the former man when he moved in the bloom and
+vigour of life.
+
+    _Nec verbum verbo curabis reddere, fidus
+    Interpres,_
+
+was the taste of the Augustan age. None but a poet can translate a poet.
+The freedom which this precept gives, will, therefore, in a poet's
+hands, not only infuse the energy, elegance, and fire of his author's
+poetry into his own version, but will give it also the spirit of an
+original.
+
+He who can construe may perform all that is claimed by the literal
+translator. He who attempts the manner of translation prescribed by
+Horace, ventures upon a task of genius. Yet, however daring the
+undertaking, and however he may have failed in it, the translator
+acknowledges, that in this spirit he has endeavoured to give the Lusiad
+in English. Even farther liberties, in one or two instances, seemed to
+him advantageous---- But a minuteness[22] in the mention of these will
+not appear with a good grace in this edition of his work; and besides,
+the original is in the hands of the world.
+
+
+
+
+MICKLE'S INTRODUCTION TO THE LUSIAD.
+
+
+If a concatenation of events centred in one great action--events which
+gave birth to the present commercial system of the world--if these be of
+the first importance in the civil history of mankind, then the Lusiad,
+of all other poems, challenges the attention of the philosopher, the
+politician, and the gentleman.
+
+In contradistinction to the Iliad and the Æneid, the Paradise Lost has
+been called the Epic Poem of Religion. In the same manner may the Lusiad
+be named the Epic Poem of Commerce. The happy completion of the most
+important designs of Henry, Duke of Viseo, prince of Portugal, to whom
+Europe owes both Gama and Columbus, both the eastern and the western
+worlds, constitutes the subject of this celebrated epic poem. But before
+we proceed to the historical introduction necessary to elucidate a poem
+founded on such an important period of history, some attention is due to
+the opinion of those theorists in political philosophy who lament that
+India was ever discovered, and who assert that increase of trade is only
+the parent of degeneracy, and the nurse of every vice.
+
+Much, indeed, may be urged on this side of the question; but much, also,
+may be urged against every institution relative to man. Imperfection, if
+not necessary to humanity, is at least the certain attendant on
+everything human. Though some part of the traffic with many countries
+resemble Solomon's importation of apes and peacocks; though the
+superfluities of life, the baubles of the opulent, and even the luxuries
+which enervate the irresolute and administer disease, are introduced by
+the intercourse of navigation, yet the extent of the benefits which
+attend it are also to be considered before the man of cool reason will
+venture to pronounce that the world is injured, and rendered less
+virtuous and happy by the increase of commerce.
+
+If a view of the state of mankind, where commerce opens no intercourse
+between nation and nation be neglected, unjust conclusions will
+certainly follow. Where the state of barbarians, and of countries under
+different degrees of civilization are candidly weighed, we may
+reasonably expect a just decision. As evidently as the appointment of
+nature gives pasture to the herds, so evidently is man born for society.
+As every other animal is in its natural state when in the situation
+which its instinct requires, so man, when his reason is cultivated, is
+then, and only then, in the state proper to his nature. The life of the
+naked savage, who feeds on acorns and sleeps like a beast in his den, is
+commonly called the natural state of man; but, if there be any propriety
+in this assertion, his rational faculties compose no part of his nature,
+and were given not to be used. If the savage, therefore, live in a state
+contrary to the appointment of nature, it must follow that he is not so
+happy as nature intended him to be. And a view of his true character
+will confirm this conclusion. The reveries, the fairy dreams of a
+Rousseau, may figure the paradisaical life of a Hottentot, but it is
+only in such dreams that the superior happiness of the barbarian exists.
+The savage, it is true, is reluctant to leave his manner of life; but,
+unless we allow that he is a proper judge of the modes of living, his
+attachment to his own by no means proves that he is happier than he
+might otherwise have been. His attachment only exemplifies the amazing
+power of habit in reconciling the human breast to the most uncomfortable
+situations. If the intercourse of mankind in some instances be
+introductive of vice, the want of it as certainly excludes the exertion
+of the noblest virtues; and, if the seeds of virtue are indeed in the
+heart, they often lie dormant, and even unknown to the savage possessor.
+The most beautiful description of a tribe of savages (which we may be
+assured is from real life) occurs in these words:[23] And the five spies
+of Dan "came to Laish, and saw the people that were there, how they
+dwelt careless, after the manner of the Zidonians, quiet and secure; and
+there was no magistrate in the land, that might put them to shame in
+anything...." And the spies said to their brethren, "Arise, that we may
+go up against them; for we have seen the land, and, behold, it is very
+good.... And they came unto Laish, unto a people that were at quiet and
+secure: and they smote them with the edge of the sword, and burnt the
+city with fire. And there was no deliverer, because it was far from
+Zidon, and they had no business with any man." However the happy
+simplicity of this society may please the man of fine imagination, the
+true philosopher will view the men of Laish with other eyes. However
+virtuous he may suppose one generation, it requires an alteration of
+human nature to preserve the children of the next in the same generous
+estrangement from the selfish passions--from those passions which are
+the parents of the acts of injustice. When his wants are easily
+supplied, the manners of the savage will be simple, and often humane,
+for the human heart is not vicious without objects of temptation. But
+these will soon occur; he that gathers the greatest quantity of fruit
+will be envied by the less industrious. The uninformed mind seems
+insensible of the idea of the right of possession which the labour of
+acquirement gives. When want is pressing, and the supply at hand, the
+only consideration with such minds is the danger of seizing it; and
+where there is no magistrate to put to shame in anything, depredation
+will soon display all its horrors. Let it even be admitted that the
+innocence of the men of Laish could secure them from the consequences of
+their own unrestrained desires, could even this impossibility be
+surmounted, still are they a wretched prey to the first invaders, and
+because they have no business with any man, they will find no deliverer.
+While human nature is the same, the fate of Laish will always be the
+fate of the weak and defenceless; and thus the most amiable description
+of savage life raises in our minds the strongest imagery of the misery
+and impossible continuance of such a state. But if the view of these
+innocent people terminate in horror, with what contemplation shall we
+behold the wilds of Africa and America? The tribes of America, it is
+true, have degrees of policy greatly superior to anything understood by
+the men of Laish. Great masters of martial oratory, their popular
+assemblies are schools open to all their youth. In these they not only
+learn the history of their nation, and what they have to fear from the
+strength and designs of their enemies, but they also imbibe the most
+ardent spirit of war. The arts of stratagem are their study, and the
+most athletic exercises of the field their employment and delight; and,
+what is their greatest praise, they have magistrates "to put them to
+shame." They inflict no corporeal punishment on their countrymen, it is
+true; but a reprimand from an elder, delivered in the assembly, is
+esteemed by them a deeper degradation and severer punishment than any of
+those too often most impolitically adopted by civilized nations. Yet,
+though possessed of this advantage--an advantage impossible to exist in
+a large commercial empire--and though masters of great martial policy,
+their condition, upon the whole, is big with the most striking
+demonstration of the misery and unnatural state of such very imperfect
+civilization. "Multiply and replenish the earth" is an injunction of the
+best political philosophy ever given to man. Nature has appointed man to
+cultivate the earth, to increase in number by the food which its culture
+gives, and by this increase of brethren to remove some, and to mitigate
+all, the natural miseries of human life. But in direct opposition to
+this is the political state of the wild aborigines of America. Their
+lands, luxuriant in climate, are often desolate wastes, where thousands
+of miles hardly support a few hundreds of savage hunters. Attachment to
+their own tribe constitutes their highest idea of virtue; but this
+virtue includes the most brutal depravity, makes them esteem the man of
+every other tribe as an enemy, as one with whom nature had placed them
+in a state of war, and had commanded to destroy.[24] And to this
+principle their customs and ideas of honour serve as rituals and
+ministers. The cruelties practised by the American savages on their
+prisoners of war (and war is their chief employment) convey every idea
+expressed by the word diabolical, and give a most shocking view of the
+degradation of human nature. But what peculiarly completes the character
+of the savage is his horrible superstition. In the most distant nations
+the savage is, in this respect, the same. The terror of evil spirits
+continually haunts him; his God is beheld as a relentless tyrant, and is
+worshipped often with cruel rites, always with a heart full of horror
+and fear. In all the numerous accounts of savage worship, one trace of
+filial dependence is not to be found. The very reverse of that happy
+idea is the hell of the ignorant mind. Nor is this barbarism confined
+alone to those ignorant tribes whom we call savages. The vulgar of every
+country possess it in certain degrees, proportionated to their
+opportunities of conversation with the more enlightened. Sordid
+disposition and base ferocity, together with the most unhappy
+superstition, are everywhere the proportionate attendants of ignorance
+and severe want. And ignorance and want are only removed by intercourse
+and the offices of society. So self-evident are these positions, that it
+requires an apology for insisting upon them; but the apology is at hand.
+He who has read knows how many eminent writers,[25] and he who has
+conversed knows how many respectable names, connect the idea of
+innocence and happiness with the life of the savage and the unimproved
+rustic. To fix the character of the savage is therefore necessary, ere
+we examine the assertion, that "it had been happy for both the old and
+the new worlds if the East and West Indies had never been discovered."
+The bloodshed and the attendant miseries which the unparalleled rapine
+and cruelties of the Spaniards spread over the new world, indeed
+disgrace human nature. The great and flourishing empires of Mexico and
+Peru, steeped in the blood of forty millions of their sons, present a
+melancholy prospect, which must excite the indignation of every good
+heart. Yet such desolation is not the certain consequence of discovery.
+And, even should we allow that the depravity of human nature is so great
+that the avarice of the merchant and rapacity of the soldier will
+overwhelm with misery every new-discovered country, still, are there
+other, more comprehensive views, to be taken, ere we decide against the
+intercourse introduced by navigation. When we weigh the happiness of
+Europe in the scale of political philosophy, we are not to confine our
+eye to the dreadful ravages of Attila the Hun, or of Alaric the Goth. If
+the waters of a stagnated lake are disturbed by the spade when led into
+new channels, we ought not to inveigh against the alteration because the
+waters are fouled at the first; we are to wait to see the streamlets
+refine and spread beauty and utility through a thousand vales which they
+never visited before. Such were the conquests of Alexander, temporary
+evils, but civilization and happiness followed in the bloody track. And,
+though disgraced with every barbarity, happiness has also followed the
+conquests of the Spaniards in the other hemisphere. Though the villainy
+of the Jesuits defeated their schemes of civilization in many countries,
+the labours of that society have been crowned with a success in Paraguay
+and in Canada, which reflects upon their industry the greatest honour.
+The customs and cruelties of many American tribes still disgrace human
+nature, but in Paraguay and Canada the natives have been brought to
+relish the blessings of society, and the arts of virtuous and civil
+life. If Mexico is not so populous as it once was, neither is it so
+barbarous;[26] the shrieks of the human victim do not now resound from
+temple to temple, nor does the human heart, held up reeking to the sun,
+imprecate the vengeance of Heaven on the guilty empire. And, however
+impolitically despotic the Spanish governments may be, still do these
+colonies enjoy the opportunities of improvement, which in every age
+arise from the knowledge of commerce and of letters--opportunities which
+were never enjoyed in South America under the reigns of Montezuma and
+Atabalipa. But if from Spanish, we turn our eyes to British America,
+what a glorious prospect! Here, formerly, on the wild lawn, perhaps
+twice in the year, a few savage hunters kindled their evening fire,
+kindled it more to protect them from evil spirits and beasts of prey,
+than from the cold, and with their feet pointed to it, slept on the
+ground. Here, now, population spreads her thousands, and society appears
+in all its blessings of mutual help, and the mutual lights of
+intellectual improvement. "What work of art, or power, or public
+utility, has ever equalled the glory of having peopled a continent,
+without guilt or bloodshed, with a multitude of free and happy
+commonwealths; to have given them the best arts of life and government!"
+To have given a savage continent an image of the British Constitution
+is, indeed, the greatest glory of the British crown, "a greater than any
+other nation ever acquired;" and from the consequences of the genius of
+Henry, Duke of Viseo, did the British American empire arise, an empire
+which, unless retarded by the illiberal and inhuman spirit of religious
+fanaticism, will in a few centuries, perhaps, be the glory of the world.
+
+Stubborn indeed must be the theorist who will deny the improvement,
+virtue, and happiness which, in the result, the voyage of Columbus has
+spread over the western world. The happiness which Europe and Asia have
+received from the intercourse with each other, cannot hitherto, it must
+be owned, be compared either with the possession of it, or the source of
+its increase established in America. Yet, let the man of the most
+melancholy views estimate all the wars and depredations which are
+charged upon the Portuguese and other European nations, still will the
+eastern world appear considerably advantaged by the voyage of Gama. If
+seas of blood have been shed by the Portuguese, nothing new was
+introduced into India. War and depredation were no unheard-of strangers
+on the banks of the Ganges, nor could the nature of the civil
+establishments of the eastern nations secure a lasting peace. The
+ambition of their native princes was only diverted into new channels,
+into channels which, in the natural course of human affairs, will
+certainly lead to permanent governments, established on improved laws
+and just dominion. Yet, even ere such governments are formed, is Asia no
+loser by the arrival of Europeans. The horrid massacres and unbounded
+rapine which, according to their own annals, followed the victories of
+their Asian conquerors were never equalled by the worst of their
+European vanquishers. Nor is the establishment of improved governments
+in the East the dream of theory. The superiority of the civil and
+military arts of the British, notwithstanding the hateful character of
+some individuals, is at this day beheld in India with all the
+astonishment of admiration; and admiration is always followed, though
+often with retarded steps, by the strong desire of similar improvement.
+Long after the fall of the Roman empire the Roman laws were adopted by
+nations which ancient Rome esteemed as barbarous. And thus, in the
+course of ages, the British laws, according to every test of
+probability, will have a most important effect, will fulfil the prophecy
+of Camoëns, and transfer to the British the high compliment he pays to
+his countrymen--
+
+    "Beneath their sway majestic, wise, and mild,
+     Proud of her victor's laws thrice happier India smiled."
+
+In former ages, and within these few years, the fertile empire of India
+has exhibited every scene of human misery, under the undistinguishing
+ravages of their Mohammedan and native princes; ravages only equalled
+in European history by those committed under Atilla, surnamed "the
+scourge of God," and "the destroyer of nations." The ideas of patriotism
+and of honour were seldom known in the cabinets of the eastern princes
+till the arrival of the Europeans. Every species of assassination was
+the policy of their courts, and every act of unrestrained rapine and
+massacre followed the path of victory. But some of the Portuguese
+governors, and many of the English officers, have taught them that
+humanity to the conquered is the best, the truest policy. The brutal
+ferocity of their own conquerors is now the object of their greatest
+dread; and the superiority of the British in war has convinced their
+princes,[27] that an alliance with the British is the surest guarantee
+of their national peace and prosperity. While the English East India
+Company are possessed of their present greatness, it is in their power
+to diffuse over the East every blessing which flows from the wisest and
+most humane policy. Long ere the Europeans arrived, a failure of the
+crop of rice, the principal food of India, had spread the devastations
+of famine over the populous plains of Bengal. And never, from the seven
+years' famine of ancient Egypt to the present day, was there a natural
+scarcity in any country which did not enrich the proprietors of the
+granaries. The Mohammedan princes, and Moorish traders have often added
+all the horrors of an artificial, to a natural, famine. But, however
+some Portuguese or other governors may stand accused, much was left for
+the humanity of the more exalted policy of an Albuquerque, or a Castro.
+And under such European governors as these, the distresses of the East
+have often been alleviated by a generosity of conduct, and a train of
+resources formerly unknown in Asia. Absurd and impracticable were that
+scheme which would introduce the British laws into India without the
+deepest regard to the manners and circumstances peculiar to the people.
+But that spirit of liberty upon which they are founded, and that
+security of property which is their leading principle, must in time have
+a wide and stupendous effect. The abject spirit of Asiatic submission
+will be taught to see, and to claim, those rights of nature, of which
+the dispirited and passive Hindus could, till lately, hardly form an
+idea. From this, as naturally as the noon succeeds the dawn, must the
+other blessings of civilization arise. For, though the four great castes
+of India are almost inaccessible to the introduction of other manners,
+and of other literature than their own, happily there is in human nature
+a propensity to change. Nor may the political philosopher be deemed an
+enthusiast who would boldly prophesy, that unless the British be driven
+from India the general superiority which they bear will, ere many
+generations shall have passed, induce the most intelligent of India to
+break the shackles of their absurd superstitions,[28] and lead them to
+partake of those advantages which arise from the free scope and due
+cultivation of the rational powers. In almost every instance the Indian
+institutions are contrary to the feelings and wishes of nature. And
+ignorance and bigotry, their two chief pillars, can never secure
+unalterable duration. We have certain proof that the horrid custom of
+burning the wives along with the body of the deceased husband has
+continued for upwards of fifteen hundred years; we are also certain that
+within these twenty years it has begun to fall into disuse. Together
+with the alteration of this most striking feature of Indian manners,
+other assimilations to European sentiments have already taken place. Nor
+can the obstinacy even of the conceited Chinese always resist the desire
+of imitating the Europeans, a people who in arts and arms are so greatly
+superior to themselves. The use of the twenty-four letters, by which we
+can express every language, appeared at first as miraculous to the
+Chinese. Prejudice cannot always deprive that people, who are not
+deficient in selfish cunning, of the ease and expedition of an alphabet;
+and it is easy to foresee that, in the course of a few centuries, some
+alphabet will certainly take the place of the 60,000 arbitrary marks
+which now render the cultivation of the Chinese literature not only a
+labour of the utmost difficulty, but even the attainment impossible
+beyond a very limited degree. And from the introduction of an alphabet,
+what improvements may not be expected from the laborious industry of the
+Chinese! Though most obstinately attached to their old customs, yet
+there is a tide in the manners of nations which is sudden and rapid, and
+which acts with a kind of instinctive fury against ancient prejudice and
+absurdity. It was that nation of merchants, the Phœnicians, which
+diffused the use of letters through the ancient, and commerce will
+undoubtedly diffuse the same blessings through the modern, world.
+
+To this view of the political happiness which is sure to be introduced
+in proportion to civilization, let the divine add what may be reasonably
+expected from such opportunity of the increase of religion. A factory of
+merchants, indeed, has seldom been found to be a school of piety; yet,
+when the general manners of a people become assimilated to those of a
+more rational worship, something more than ever was produced by an
+infant mission, or the neighbourhood of an infant colony, may then be
+reasonably expected, and even foretold.
+
+In estimating the political happiness of a people, nothing is of greater
+importance than their capacity of, and tendency to, improvement. As a
+dead lake, to continue our former illustration, will remain in the same
+state for ages and ages, so would the bigotry and superstitions of the
+East continue the same. But if the lake is begun to be opened into a
+thousand rivulets, who knows over what unnumbered fields, barren before,
+they may diffuse the blessings of fertility, and turn a dreary
+wilderness into a land of society and joy.
+
+In contrast to this, let the Gold Coast and other immense regions of
+Africa be contemplated--
+
+    "Afric behold; alas, what altered view!
+     Her lands uncultured, and her sons untrue;
+     Ungraced with all that sweetens human life,
+     Savage and fierce they roam in brutal strife;
+     Eager they grasp the gifts which culture yields,
+     Yet naked roam their own neglected fields....
+     Unnumber'd tribes as bestial grazers stray,
+     By laws unform'd, unform'd by Reason's sway.
+     Far inward stretch the mournful sterile dales,
+     Where on the parch'd hill-side pale famine wails."
+
+     LUSIAD X.
+
+Let us consider how many millions of these unhappy savages are dragged
+from their native fields, and cut off for ever from all the hopes and
+all the rights to which human birth entitled them. And who would
+hesitate to pronounce that negro the greatest of patriots, who, by
+teaching his countrymen the arts of society, should teach them to defend
+themselves in the possession of their fields, their families, and their
+own personal liberties?
+
+Evident, however, as it is, that the voyages of Gama and Columbus have
+already carried a superior degree of happiness, and the promise of
+infinitely more, to the eastern and western worlds; yet the advantages
+to Europe from the discovery of these regions may perhaps be denied. But
+let us view what Europe was, ere the genius of Don Henry gave birth to
+the spirit of modern discovery.
+
+Several ages before this period the feudal system had degenerated into
+the most absolute tyranny. The barons exercised the most despotic
+authority over their vassals, and every scheme of public utility was
+rendered impracticable by their continual petty wars with each other; to
+which they led their dependents as dogs to the chase. Unable to read, or
+to write his own name, the chieftain was entirely possessed by the most
+romantic opinion of military glory, and the song of his domestic
+minstrel constituted his highest idea of fame. The classic authors slept
+on the shelves of the monasteries, their dark but happy asylum, while
+the life of the monks resembled that of the fattened beeves which loaded
+their tables. Real abilities were indeed possessed by a Duns Scotus and
+a few others; but these were lost in the most trifling subtleties of a
+sophistry which they dignified with the name of casuistical divinity.
+Whether Adam and Eve were created with navels? and How many thousand
+angels might at the same instant dance upon the point of the finest
+needle without one jostling another? were two of the several topics of
+like importance which excited the acumen and engaged the controversies
+of the learned. While every branch of philosophical, of rational
+investigation, was thus unpursued and unknown, commerce, which is
+incompatible with the feudal system, was equally neglected and
+unimproved. Where the mind is enlarged and enlightened by learning,
+plans of commerce will rise into action, and these, in return, will from
+every part of the world bring new acquirements to philosophy and
+science. The birth of learning and commerce may be different, but their
+growth is mutual and dependent upon each other. They not only assist
+each other, but the same enlargement of mind which is necessary for
+perfection in the one is also necessary for perfection in the other; and
+the same causes impede, and are alike destructive of, both. The
+INTERCOURSE of mankind is the parent of each. According to the
+confinement or extent of intercourse, barbarity or civilization
+proportionately prevail. In the dark, monkish ages, the intercourse of
+the learned was as much impeded and confined as that of the merchant. A
+few unwieldy vessels coasted the shores of Europe, and mendicant friars
+and ignorant pilgrims carried a miserable account of what was passing in
+the world from monastery to monastery. What doctor had last disputed on
+the peripatetic philosophy at some university, or what new heresy had
+last appeared, not only comprised the whole of their literary
+intelligence, but was delivered with little accuracy, and received with
+as little attention. While this thick cloud of mental darkness
+overspread the western world, was Don Henry, prince of Portugal, born;
+born to set mankind free from the feudal system, and to give to the
+whole world every advantage, every light that may possibly be diffused
+by the intercourse of unlimited commerce:--
+
+    "For then from ancient gloom emerg'd
+     The rising world of trade: the genius, then,
+     Of navigation, that in hopeless sloth
+     Had slumber'd on the vast Atlantic deep
+     For idle ages, starting heard at last
+     The Lusitanian prince, who, Heaven-inspir'd,
+     To love of useful glory rous'd mankind,
+     And in unbounded commerce mix'd the world."
+
+    THOMSON.
+
+In contrast to this melancholy view of human nature, sunk in barbarism
+and benighted with ignorance, let the present state of Europe be
+impartially estimated. Yet, though the great increase of opulence and
+learning cannot be denied, there are some who assert that virtue and
+happiness have as greatly declined. And the immense overflow of riches,
+from the East in particular, has been pronounced big with destruction to
+the British empire. Everything human, it is true, has its dark as well
+as its bright side; but let these popular complaints be examined, and it
+will be found that modern Europe, and the British empire in a very
+particular manner, have received the greatest and most solid advantages
+from the modern, enlarged system of commerce. The magic of the old
+romances, which could make the most withered, deformed hag, appear as
+the most beautiful virgin, is every day verified in popular declamation.
+Ancient days are there painted in the most amiable simplicity, and the
+modern in the most odious colours. Yet, what man of fortune in England
+lives in that stupendous gross luxury which every day was exhibited in
+the Gothic castles of the old chieftains! Four or five hundred knights
+and squires in the domestic retinue of a warlike earl was not uncommon,
+nor was the pomp of embroidery inferior to the profuse waste of their
+tables; in both instances unequalled by all the mad excesses of the
+present age.
+
+While the baron thus lived in all the wild glare of Gothic luxury,
+agriculture was almost totally neglected, and his meaner vassals fared
+harder, infinitely less comfortably, than the meanest industrious
+labourers of England do now; where the lands are uncultivated, the
+peasants, ill-clothed, ill-lodged, and poorly fed, pass their miserable
+days in sloth and filth, totally ignorant of every advantage, of every
+comfort which nature lays at their feet. He who passes from the trading
+towns and cultured fields of England to those remote villages of
+Scotland or Ireland which claim this description, is astonished at the
+comparative wretchedness of their destitute inhabitants; but few
+consider that these villages only exhibit a view of what Europe was ere
+the spirit of commerce diffused the blessings which naturally flow from
+her improvements. In the Hebrides the failure of a harvest almost
+depopulates an island. Having little or no traffic to purchase grain,
+numbers of the young and hale betake themselves to the continent in
+quest of employment and food, leaving a few, less adventurous, behind,
+to beget a new race, the heir of the same fortune. Yet from the same
+cause, from the want of traffic, the kingdom of England has often felt
+more dreadful effects than these. Even in the days when her Henries and
+Edwards plumed themselves with the trophies of France, how often has
+famine spread all her horrors over city and village? Our modern
+histories neglect this characteristic feature of ancient days; but the
+rude chronicles of these ages inform us, that three or four times in
+almost every reign was England thus visited. The failure of the crop was
+then severely felt, and two bad harvests in succession were almost
+insupportable. But commerce has now opened another scene, has armed
+government with the happiest power that can be exerted by the rulers of
+a nation--the power to prevent every extremity[29] which may possibly
+arise from bad harvests; extremities, which, in former ages, were
+esteemed more dreadful visitations of the wrath of Heaven than the
+pestilence itself. Yet modern London is not so certainly defended
+against the latter, its ancient visitor, than the commonwealth by the
+means of commerce, under a just and humane government, is secured
+against the ravages of the former. If, from these great outlines of the
+happiness enjoyed by a commercial over an uncommercial nation, we turn
+our eyes to the manners, the advantages will be found no less in favour
+of the civilized.
+
+Whoever is inclined to declaim at the vices of the present age, let him
+read, and be convinced, that the Gothic ages were less virtuous. If the
+spirit of chivalry prevented effeminacy, it was the foster-father of a
+ferocity of manners now happily unknown. Rapacity, avarice, and
+effeminacy are the vices ascribed to the increase of commerce; and in
+some degree, it must be confessed, they follow her steps. Yet infinitely
+more dreadful, as every palatinate in Europe often felt, were the
+effects of the two first under the feudal lords than can possibly be
+experienced under any system of trade. The virtues and vices of human
+nature are the same in every age: they only receive different
+modifications, and are dormant, or awakened into action, under different
+circumstances. The feudal lord had it infinitely more in his power to be
+rapacious than the merchant. And whatever avarice may attend the trader,
+his intercourse with the rest of mankind lifts him greatly above that
+brutish ferocity which actuates the savage, often the rustic, and in
+general characterizes the ignorant part of mankind. The abolition of the
+feudal system, a system of absolute slavery, and that equality of
+mankind which affords the protection of property, and every other
+incitement to industry, are the glorious gifts which the spirit of
+commerce, awakened by Prince Henry of Portugal, has bestowed upon Europe
+in general; and, as if directed by the manes of his mother, a daughter
+of England, upon the British empire in particular. In the vice of
+effeminacy alone, perhaps, do we exceed our ancestors; yet, even here we
+have infinitely the advantage over them. The brutal ferocity of former
+ages is now lost, and the general mind is humanized. The savage breast
+is the native soil of revenge; a vice, of all others, peculiarly stamped
+with the character of hell. But the mention of this was reserved for the
+character of the savages of Europe. The savage of every country is
+implacable when injured; but among some, revenge has its measure. When
+an American Indian is murdered his kindred pursue the murderer; and, as
+soon as blood has atoned for blood, the wilds of America hear the
+hostile parties join in their mutual lamentations over the dead, whom,
+as an oblivion of malice, they bury together. But the measure of
+revenge, never to be full, was left for the demi-savages of Europe. The
+vassals of the feudal lord entered into his quarrels with the most
+inexorable rage. Just or unjust was no consideration of theirs. It was a
+family feud; no farther inquiry was made; and from age to age, the
+parties, who never injured each other, breathed nothing but mutual
+rancour and revenge. And actions, suitable to this horrid spirit,
+everywhere confessed its virulent influence. Such were the late days of
+Europe, admired by the ignorant for the innocence of manners. Resentment
+of injury, indeed, is natural; and there is a degree which is honest,
+and though warm, far from inhuman. But if it is the hard task of
+humanized virtue to preserve the feeling of an injury unmixed with the
+slightest criminal wish of revenge, how impossible is it for the savage
+to attain the dignity of forgiveness, the greatest ornament of human
+nature. As in individuals, a virtue will rise into a vice, generosity
+into blind profusion, and even mercy into criminal lenity, so civilized
+manners will lead the opulent into effeminacy. But let it be considered,
+this consequence is by no means the certain result of civilization.
+Civilization, on the contrary, provides the most effectual preventive of
+this evil. Where classical literature prevails the manly spirit which it
+breathes must be diffused; whenever frivolousness predominates, when
+refinement degenerates into whatever enervates the mind, literary
+ignorance is sure to complete the effeminate character. A mediocrity of
+virtues and of talents is the lot of the great majority of mankind; and
+even this mediocrity, if cultivated by a liberal education, will
+infallibly secure its possessor against those excesses of effeminacy
+which are really culpable. To be of plain manners it is not necessary to
+be a clown, or to wear coarse clothes; nor is it necessary to lie on the
+ground and feed like the savage to be truly manly. The beggar who,
+behind the hedge, divides his offals with his dog has often more of the
+real sensualist than he who dines at an elegant table. Nor need we
+hesitate to assert, that he who, unable to preserve a manly elegance of
+manners, degenerates into the _petit maître_, would have been, in any
+age or condition, equally insignificant and worthless. Some, when they
+talk of the debauchery of the present age, seem to think that the former
+ages were all innocence. But this is ignorance of human nature. The
+debauchery of a barbarous age is gross and brutal; that of a gloomy,
+superstitious one, secret, excessive, and murderous; that of a more
+polished one, much happier for the fair sex,[30] and certainly in no
+sense so big with political unhappiness. If one disease has been
+imported from America,[31] the most valuable medicines have likewise
+been brought from those regions; and distempers, which were thought
+invincible by our forefathers, are now cured. If the luxuries of the
+Indies usher disease to our tables the consequence is not unknown; the
+wise and the temperate receive no injury, and intemperance has been the
+destroyer of mankind in every age. The opulence of ancient Rome produced
+a luxury of manners which proved fatal to that mighty empire. But the
+effeminate sensualists of those ages were not men of intellectual
+cultivation. The enlarged ideas, the generous and manly feelings
+inspired by a liberal education, were utterly unknown to them. Unformed
+by that wisdom which arises from science and true philosophy, they were
+gross barbarians, dressed in the mere outward tinsel of
+civilization.[32] Where the enthusiasm of military honour characterizes
+the rank of gentlemen that nation will rise into empire. But no sooner
+does conquest give a continued security than the mere soldier
+degenerates; and the old veterans are soon succeeded by a new
+generation, illiterate as their fathers, but destitute of their virtues
+and experience. Polite literature not only humanizes the heart, but also
+wonderfully strengthens and enlarges the mind. Moral and political
+philosophy are its peculiar provinces, and are never happily cultivated
+without its assistance. But, where ignorance characterizes the body of
+the nobility, the most insipid dissipation and the very idleness and
+effeminacy of luxury are sure to follow. Titles and family are then the
+only merit, and the few men of business who surround the throne have it
+then in their power to aggrandize themselves by riveting the chains of
+slavery. A stately grandeur is preserved, but it is only outward; all is
+decayed within, and on the first storm the weak fabric falls to the
+dust. Thus rose and thus fell the empire of Rome, and the much wider one
+of Portugal. Though the increase of wealth did, indeed, contribute to
+that corruption of manners which unnerved the Portuguese, certain it is
+the wisdom of legislature might certainly have prevented every evil
+which Spain and Portugal have experienced from their acquisitions in the
+two Indies.[33] Every evil which they have suffered from their
+acquirements arose, as shall be hereafter demonstrated, from their
+general ignorance, which rendered them unable to investigate or
+apprehend even the first principles of civil and commercial philosophy.
+And what other than the total eclipse of their glory could be expected
+from a nobility, rude and unlettered as those of Portugal are described
+by the author of the Lusiad--a court and nobility who sealed the truth
+of all his complaints against them by suffering that great man, the
+light of their age, to die in an almshouse! What but the fall of their
+state could be expected from barbarians like these! Nor can the annals
+of mankind produce one instance of the fall of empire where the
+character of the nobles was other than that ascribed to his countrymen
+by Camoëns.
+
+
+
+
+MICKLE'S SKETCH OF THE HISTORY
+
+OF THE
+
+DISCOVERY OF INDIA.
+
+
+No lesson can be of greater national importance than the history of the
+rise and the fall of a commercial empire. The view of what advantages
+were acquired, and of what might have been still added; the means by
+which such empire might have been continued, and the errors by which it
+was lost, are as particularly conspicuous in the naval and commercial
+history of Portugal as if Providence had intended to give a lasting
+example to mankind; a chart, where the course of the safe voyage is
+pointed out, and where the shelves and rocks, and the seasons of tempest
+are discovered and foretold.
+
+The history of Portugal, as a naval and commercial power, begins with
+the designs of Prince Henry. But as the enterprises of this great man,
+and the completion of his designs are intimately connected with the
+state of Portugal, a short view of the progress of the power, and of the
+character of that kingdom, will be necessary to elucidate the history of
+the revival of commerce, and the subject of the Lusiad.
